@@ -46,7 +46,7 @@ vim apache-tomcat-11.0.9/webapps/examples/META-INF/context.xml
 
 ![example image alt-text#center](./_images/lp-tomcat-examples.png "Tomcat-Examples")
 
-## Setup Benchmark Client - [wrk2](https://github.com/giltene/wrk2)
+## Setup Benchmark Client - [wrk2](https://github.com/giltene/wrk2) (Supports x86 only for now)
 - wrk2 is a high-performance HTTP benchmarking tool specialized in generating constant throughput loads and measuring latency percentiles for web services.
 - As an enhanced version of wrk, wrk2 provides accurate latency statistics under controlled request rates, ideal for performance testing of HTTP servers.
 
